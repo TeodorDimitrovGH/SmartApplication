@@ -2,4 +2,6 @@
     <string name="app_name">SmartApplication</string>
     <string name="large">Hello</string>
     <string name="button">Click Me Hoss</string>
+    <string name="stringblabla">\@stringblabla</string>
+    <string name="zx">asdasdasdas</string>
 </resources>
